@@ -478,8 +478,7 @@ What this does **not** protect against: anyone who can push to the repo hosting 
 
 ---
 
-
-## 17. New-mod checklist
+## 16. New-mod checklist
 
 - [ ] Reference `VoidUpdaterTemplate.dll` (Copy Local = false)
 - [ ] Call `ModUpdater.Attach(this, new UpdaterConfig { ModName, ManifestUrl })` in `Awake()`
