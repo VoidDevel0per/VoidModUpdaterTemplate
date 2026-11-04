@@ -1,4 +1,4 @@
-# VoidUpdater
+# VoidModUpdater
 
 An **automatic updater, file validator and dependency checker** for Casualties Unknown/Scav Prototype BepInEx mods (Unity, BepInEx 5).
 You point it at a `manifest.json` hosted on GitHub (or any allowed host) and it handles version checks, hash-verified downloads, DLL swapping, repair of missing files, and dependency warnings, with a small in-game IMGUI window.
